@@ -1,7 +1,7 @@
 ---
 title: "Инна Мацко"
 subtitle: Мастер маникюра и педикюра
-image: /img/home-jumbotron.jpg
+image: /img/home-jumbotron1.jpg
 blurb:
     heading: Маникюр и педикюр
     text: "Меня зовут Инна, и я из тех людей, которые горят своей работой. 
