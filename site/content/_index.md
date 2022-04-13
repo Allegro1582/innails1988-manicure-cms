@@ -1,20 +1,23 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "Инна Мацко"
+subtitle: Мастер маникюра и педикюра
 image: /img/home-jumbotron.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: Маникюр и педикюр
+    text: "Меня зовут Инна, и я из тех людей, которые горят своей работой. 
+    Возвращаясь домой после утомительного трудового дня, я нахожу время, учусь новейшим техникам и выискиваю для вас модные тенденции, изучаю болезни, проблемы ногтей и способы их решения - и мне это нравится.
+    Моя работа - это не только о красоте. Маникюр и педикюр - это, в первую очередь, про гигиену. Не обязательно красить или удлинять ногти - суть в том, чтобы содержать руки и ноги в чистоте и порядке, заботиться о них."
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
-products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
-values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+    heading: "Что я предлагаю"
+    text: "Качественный маникюр и педикюр в Одессе от дипломированного мастера ногтевого сервиса; 
+    Чисто и внимательно позабочусь о ваших ноготках;  
+    Сделаю маникюр и педикюр на совесть, совмещая качество и скорость работы - мне важно чтоб Вы вернулись, а не отвернулись; 
+    Наведу красоту и дам рекомендации по уходу; 
+    При желании вы сможете сэкономить время и совместить несколько услуг: 2в1, 3в1; 
+    Вы получите 7 дней гарантии на выполненную мной работу от студии красоты, в которой я работаю; 
+    Салон FoKs Beauty Studio, в котором я вас приму, тщательно заботится о своих клиентах, поэтому все инструменты проходят полную дезинфекцию и стерилизацию с выполнением всех необходимых норм, и я пристально за этим слежу;  
+    Вас ждут не только качественный маникюр и педикюр, который не стыдно показать, но и приятные скидки, бонусы и подарки от студии.
+    Пожалуй, всё. Остаётся добавить - до скорой встречи!)"
+    
 ---
 
